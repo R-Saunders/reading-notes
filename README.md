@@ -2,6 +2,11 @@
 
 A place for my notes on my coding course.
 
+## Contents
+
+- [Class 01](https://r-saunders.github.io/reading-notes/102/class-01)
+- [Class 02](https://r-saunders.github.io/reading-notes/102/class-02)
+
 ## **A growth mindset**
 
 A growth mindset is about always learning and expanding your mind. To quote *Steve Haffenden*;
