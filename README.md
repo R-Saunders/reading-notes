@@ -15,3 +15,5 @@ A Growth mindset is about;
 - Viewing effort as ~~fruitless~~ no pain, no gain
 - ~~Ignoring~~ Embracing Criticism
 - Seeing the success of others ~~as a threat~~ inspring
+
+![Growth Mindset](NewGrowthMindset2.png)
