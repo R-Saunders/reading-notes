@@ -6,6 +6,7 @@ A place for my notes on my coding course.
 
 - [Class 01](https://r-saunders.github.io/reading-notes/102/class-01)
 - [Class 02](https://r-saunders.github.io/reading-notes/102/class-02)
+- [Class 03](https://r-saunders.github.io/reading-notes/102/class-02)
 
 ## **A growth mindset**
 
