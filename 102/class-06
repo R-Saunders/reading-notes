@@ -1,7 +1,0 @@
-# Class 06
-
-JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language. It is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
-
-In other words, Javascript is a very versatile programming language, used most commonly to provide functionality to websites but also used in some cases offline such as [Node.js](https://nodejs.org/en/).
-
-The standards for JavaScript are the ECMAScript Language Specification. We are currently on version six, also known as ES6.
