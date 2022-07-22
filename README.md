@@ -13,7 +13,7 @@ A place for my notes on my coding course.
 - [Class 05](https://r-saunders.github.io/reading-notes/102/class-05)
 - [Class 06 Website](https://r-saunders.github.io/reading-notes/102/class-06-website)
 - [Class 06](https://r-saunders.github.io/reading-notes/102/class-06)
-- [Class 07 Webiste](https://r-saunders.github.io/reading-notes/102/class-07-website)
+- [Class 07 Website](https://r-saunders.github.io/reading-notes/102/class-07-website)
 - [Class 07](https://r-saunders.github.io/reading-notes/102/class-07)
 
 ## **A growth mindset**
