@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Kittens</title>
+</head>
+
+<body>
+
+	<h1>Kittens!</h1>
+	<h2>How many kittens would you like?</h2>
+	<input id="count" type="number"/>
+	<button id="generate">Show me the kitties!</button>
+	<div id="kitties"></div>
+	<script>
+
+		document.getElementById("generate").addEventListener("click", make_kitties);
+
+		function make_kitties() {
+			for (var i = 0; i < document.getElementById("count").value; i++) {
+				var img = document.createElement("img");
+				img.src = "http://placekitten.com/200/300";
+				var block = document.getElementById("kitties");
+				block.appendChild(img);
+			};
+		};
+	</script>
+</body>
+
+</html>
