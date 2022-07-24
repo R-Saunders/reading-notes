@@ -45,3 +45,43 @@ MDN offers the following table for comparison operators.
 |[Greater than or equal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Greater_than_or_equal) (>=)|Returns true if the left operand is greater than or equal to the right operand.|`var2 >= var1`, `var1 >= 3`|
 |[Less than](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Less_than) (<)|Returns true if the left operand is less than the right operand.|`var1 < var2`, `"2" < 12`|
 |[Less than or equal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Less_than_or_equal) (<=)|Returns true if the left operand is less than or equal to the right operand.|`var1 <= var2`, `var2 <= 5`|
+
+### Loops and iteration
+
+Loops offer a quick and easy way to do something repeatedly. They are used to repeat an action number of times without having to repeat the same line of code. Conditions typically return true or false. A loop will continue running until the defined condition returns false.
+
+#### `for` statement
+
+A `for` loop repeats until a specified condition evaluates to false.
+
+MDN provides th below example.
+
+```
+for ([initialExpression]; [conditionExpression]; [incrementExpression])
+  statement
+```
+
+When a `for` loop executes, the following occurs:
+
+1. The initializing expression initialExpression, if any, is executed. This expression usually initializes one or more loop counters, but the syntax allows an expression of any degree of complexity. This expression can also declare variables.
+2. The conditionExpression expression is evaluated. If the value of conditionExpression is true, the loop statements execute. Otherwise, the for loop terminates. (If the conditionExpression expression is omitted entirely, the condition is assumed to be true.)
+3. The statement executes. To execute multiple statements, use a block statement ({ }) to group those statements.
+4. If present, the update expression incrementExpression is executed.
+5. Control returns to Step 2.
+
+#### `while` statement
+
+A `while` statement executes its statements as long as a specified condition evaluates to true.
+
+MDN gives the following example.
+
+```
+while (condition)
+  statement
+```
+
+If the `condition` becomes `false`, `statement` within the loop stops executing and control passes to the statement following the loop.
+
+The condition test occurs before `statement` in the loop is executed. If the condition returns `true`, `statement` is executed and the `condition` is tested again. If the `condition` returns `false`, execution stops, and control is passed to the `statement` following `while`.
+
+To execute multiple statements, use a block statement (`{ }`) to group those statements.
