@@ -21,7 +21,7 @@ A place for my notes on my coding course.
 
 ## **A growth mindset**
 
-A growth mindset is about always learning and expanding your mind. To quote *Steve Haffenden*;
+A growth mindset is very important to adopt when working in a the world of development, it is about always learning and expanding your mind. To quote *Steve Haffenden*;
 
 > It can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 
