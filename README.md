@@ -4,6 +4,7 @@ A place for my notes on my coding course.
 
 ## Contents
 
+- [Home Page](https://r-saunders.github.io/reading-notes)
 - [Class 01](https://r-saunders.github.io/reading-notes/102/class-01)
 - [Class 02](https://r-saunders.github.io/reading-notes/102/class-02)
 - [Class 03](https://r-saunders.github.io/reading-notes/102/class-03)
@@ -17,7 +18,6 @@ A place for my notes on my coding course.
 - [Class 07](https://r-saunders.github.io/reading-notes/102/class-07)
 - [Class 08](https://r-saunders.github.io/reading-notes/102/class-08)
 - [Class 08 Website](https://r-saunders.github.io/reading-notes/102/class-08-website)
-
 
 ## **A growth mindset**
 
