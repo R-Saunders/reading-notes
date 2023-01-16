@@ -1,7 +1,7 @@
 # Reading Notes
 
-A place for my notes on my coding course.
-
+A place for my notes on my coding course.  
+  
 ## Contents
 
 - [Home Page](https://r-saunders.github.io/reading-notes)
