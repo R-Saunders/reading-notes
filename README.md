@@ -1,6 +1,6 @@
 # Reading Notes
 
-A place for my notes on my coding course.
+A place for my notes on my coding course. 
 
 ## Contents
 
